@@ -3,14 +3,14 @@ from setuptools import setup
 
 setup(
     name="TextBarcodeGenerator",
-    version="2022.0.1",
+    version="2022.0.2",
     description="A tool to generate text-based barcodes.",
     long_description_content_type="text/markdown",
     long_description="This is a tool to generate text-based barcodes. You can "
                      "input anything, so long as it can be converted to a "
                      "numerical string.",
     author="J-J-B-J",
-    url="",
+    url="https://github.com/J-J-B-J/BarcodeGenerator",
     keywords="barcode generator text numerical",
     python_requires=">=3.9",
     install_requires=[],
